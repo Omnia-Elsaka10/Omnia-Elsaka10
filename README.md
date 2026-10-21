@@ -1,5 +1,10 @@
 # Hey, I'm Omnia 👋
 
+<p align="center">
+  <img src="assets/photo_2026-10-22_01-59-37.jpg" width="450" alt="Omnia's profile photo" />
+</p>
+
+
 ### AI / ML Engineer | Learning by building 🤖
 
 I'm a Computer Science graduate from Mansoura University, interested in AI and Machine Learning.

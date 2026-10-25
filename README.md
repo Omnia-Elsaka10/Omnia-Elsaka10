@@ -5,7 +5,7 @@
 </p>
 
 
-### AI / ML Engineer | Learning by building 🤖
+### AI / ML Engineer 
 
 I'm a Computer Science graduate from Mansoura University, interested in AI and Machine Learning.
 
